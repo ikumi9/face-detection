@@ -1,0 +1,4 @@
+Timestamp: 20230912110901, File Path: /Users/isaackumi/TIA-CLOUD/face-detection/captured_image_20230912110901.jpg
+Timestamp: 20230912110905, File Path: /Users/isaackumi/TIA-CLOUD/face-detection/captured_image_20230912110905.jpg
+Timestamp: 20230912110906, File Path: /Users/isaackumi/TIA-CLOUD/face-detection/captured_image_20230912110906.jpg
+Timestamp: 20230912110906, File Path: /Users/isaackumi/TIA-CLOUD/face-detection/captured_image_20230912110906.jpg
